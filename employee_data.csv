@@ -1,0 +1,71 @@
+Employee_ID,Name,Department,Salary,Joining_Date
+101,John Doe,IT,75000,6/15/2021
+102,Jane Smith,HR,65000,8/20/2020
+103,Michael Brown,Finance,80000,7/10/2019
+104,Emily Davis,Marketing,72000,1/5/2022
+105,David Wilson,IT,77000,3/12/2023
+106,Olivia Martinez,Finance,85000,5/22/2018
+107,James Taylor,HR,67000,11/30/2020
+108,Sophia Johnson,IT,78000,9/17/2019
+109,Robert Lee,,71000,7/24/2021
+110,Linda Walker,Finance,83000,4/18/2022
+111,William Harris,IT,79000,12/3/2020
+112,Elizabeth White,HR,69000,2/14/2021
+113,Daniel Allen,Finance,86000,6/7/2019
+114,Patricia Lewis,Marketing,74000,1/25/2023
+115,Christopher Hall,IT,80000,9/11/2022
+116,Barbara Young,Finance,87000,3/19/2017
+117,Matthew King,HR,,10/5/2020
+118,Ashley Wright,IT,82000,8/29/2019
+119,Joseph Scott,Marketing,75000,6/8/2021
+120,Nancy Green,Finance,88000,7/15/2018
+121,Thomas Adams,HR,71000,2/27/2022
+122,Mary Nelson,IT,83000,4/9/2023
+123,Richard Carter,Marketing,76000,5/12/2019
+124,Susan Baker,Finance,89000,6/23/2017
+125,Charles Perez,IT,84000,11/16/2021
+126,Jessica Evans,HR,72000,12/20/2020
+127,,Marketing,77000,5/3/2022
+128,Megan Stewart,Finance,90000,8/14/2018
+129,Joshua Sanchez,IT,85000,10/7/2019
+130,Lauren Morris,,73000,1/30/2021
+131,Alice Johnson,IT,80000,5/10/2022
+132,Bob Williams,HR,,7/15/2021
+133,Charlie Brown,Finance,72000,3/25/2020
+134,David Miller,Marketing,70000,9/30/2019
+135,,IT,85000,12/5/2022
+136,Frank Wilson,Sales,60000,11/20/2020
+137,Grace Thomas,HR,67000,2/14/2021
+138,Henry Martin,Finance,75000,4/18/2019
+139,Isabella White,IT,82000,6/27/2023
+140,Jack Harris,Marketing,73000,10/5/2022
+141,Kevin Anderson,,87000,1/15/2023
+142,Laura Scott,HR,69000,2/18/2022
+143,Michael Green,Finance,76000,3/12/2021
+144,Natalie Carter,Marketing,71000,4/5/2020
+145,Oliver Roberts,IT,90000,5/22/2023
+146,Patrick Turner,Sales,62000,6/30/2022
+147,Quinn Edwards,HR,68000,7/14/2021
+148,Rachel Foster,Finance,78000,8/9/2020
+149,,IT,88000,9/18/2019
+150,Teresa Collins,Marketing,74000,10/25/2023
+151,Ulysses Howard,Sales,61000,11/10/2022
+152,Victoria Adams,HR,70000,12/6/2021
+153,William Parker,Finance,79000,1/30/2020
+154,Xavier Hughes,IT,93000,2/17/2023
+155,,Marketing,72000,3/21/2022
+156,Zachary Scott,,63000,4/10/2021
+157,Amanda Johnson,HR,71000,5/15/2020
+158,Brian Thompson,Finance,80000,6/9/2019
+159,Catherine Lewis,IT,95000,7/14/2023
+160,Daniel Walker,Marketing,76000,8/22/2022
+161,Erica Allen,Sales,64000,9/30/2021
+162,Frank Mitchell,HR,72000,10/5/2020
+163,,Finance,81000,11/18/2019
+164,Henry Wilson,IT,97000,12/22/2023
+165,Isabel Ramirez,Marketing,77000,1/5/2023
+166,Jack Phillips,Sales,65000,2/19/2022
+167,Karen Peterson,HR,,3/12/2021
+168,Leonard Simmons,Finance,82000,4/20/2020
+169,Monica Sanders,IT,99000,5/8/2023
+170,Nathaniel Rogers,Marketing,78000,6/27/2022
